@@ -1,0 +1,4 @@
+//jquery snippet
+$(function() {
+
+  });
